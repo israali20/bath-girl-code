@@ -56,13 +56,14 @@ iframe{
     margin: auto;
 }
 
+.row {
+    display: flex;
+    justify-content:center;
+} 
+
 .center {
     float: center;
     padding-top: 30px;
     padding: 20px;
 }
  
-.row {
-    display: flex;
-    justify-content:center;
-} 
