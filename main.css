@@ -1,0 +1,68 @@
+body{
+    background-color: #cccccc;
+    background-image: linear-gradient(#594086, #924586);
+}
+
+/*46296E 594086  */
+
+h1{
+    color:white;
+    font-size: 90px;
+    font-family: 'Arvo', serif;
+    text-align: center;
+    ;
+}
+
+h3{
+    color:white;
+    font-family: 'Arvo', sans-serif;
+    text-align: center;
+}
+
+h5{
+    color: white;
+    font-family: 'Arvo', sans-serif;
+    padding-top:20px;
+}
+
+.form{
+    padding-top:50px;
+    display: flex;
+    justify-content:center;
+    font-size: 30px;
+    size: 20px;
+}
+
+.button{
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 9px 13px;
+    border-radius: 12px;
+    width: 70px;
+    transition-duration: 0.2s;
+}
+    
+.button:hover {
+    background-color: #grey;
+    color: white;
+}
+
+
+iframe{
+    padding-top:100px;
+    display: block;
+    margin: auto;
+}
+
+.center {
+    float: center;
+    padding-top: 30px;
+    padding: 20px;
+}
+ 
+.row {
+    display: flex;
+    justify-content:center;
+} 
